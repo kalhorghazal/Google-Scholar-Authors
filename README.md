@@ -1,6 +1,6 @@
 # Google-Scholar-Authors
 
-This <a href="https://drive.google.com/drive/folders/1v9nkcG2QasMX54Ejv2jVEpX_5DzB8xt2?usp=sharing">link</a> contains the information of 850,827 authors of Google Scholar we collected in 2021 and analyzed in this paper:
+This <a href="https://drive.google.com/drive/folders/1v9nkcG2QasMX54Ejv2jVEpX_5DzB8xt2?usp=sharing">link</a> contains the datasets of 850,827 authors of Google Scholar we collected in 2021 and analyzed in this paper:
 
 Title: "A new insight to the analysis of co-authorship in Google Scholar"
 
