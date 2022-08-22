@@ -40,8 +40,8 @@ authorsFeatures.head(3)
 |AUb2dK4AAAAJ|	4396926741242628134|	1280|	    16|	female|	US|
 
 ```
-genre_df = pd.read_csv('CleanedBookGenreVotesAbove10.csv')
-genre_df.head(3)
+authorsFields = pd.read_csv('authorsFields.csv')
+authorsFields.head(3)
 ```
 
 |Author ID|Field of Interest|
