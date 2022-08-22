@@ -23,7 +23,7 @@ We collected the following information for each author from Google Scholar:
 * Gender
 * Country
 * Fields of Interest
-* Co-authors ID
+* Co-authors IDs
 
 
 ```python
