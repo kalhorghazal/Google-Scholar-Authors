@@ -36,8 +36,8 @@ authorsFeatures.head(3)
 |Author ID|Institute ID|Citation Count|h-index|Gender|Country|
 |----|----|----|----|----|----|
 |QcRldecAAAAJ| 17508113656414128510|	1280|	    16|	  male|	ID|
-|rkKMIwMAAAAJ|	4065822778065209794|	1280|    	16|	  male|	US|
-|AUb2dK4AAAAJ|	4396926741242628134|	1280|	    16|	female|	US|
+|rkKMIwMAAAAJ|	4065822778065209794|	1034|    	18|	  male|	US|
+|AUb2dK4AAAAJ|	4396926741242628134|	 111|	     7|	female|	US|
 
 ```
 authorsFields = pd.read_csv('authorsFields.csv')
