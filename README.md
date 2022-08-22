@@ -39,7 +39,7 @@ authorsFeatures.head(3)
 |rkKMIwMAAAAJ|	4065822778065209794|	1034|    	18|	  male|	US|
 |AUb2dK4AAAAJ|	4396926741242628134|	 111|	     7|	female|	US|
 
-```
+```python
 authorsFields = pd.read_csv('authorsFields.csv')
 authorsFields.head(3)
 ```
@@ -50,7 +50,7 @@ authorsFields.head(3)
 |rkKMIwMAAAAJ|	                  Computer Science|
 |AUb2dK4AAAAJ|Agricultural and Biological Sciences|
 
-```
+```python
 coauthorship = pd.read_csv('coauthorship.csv')
 coauthorship.head(3)
 ```
