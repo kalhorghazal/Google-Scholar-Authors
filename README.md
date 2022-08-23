@@ -4,7 +4,7 @@ This <a href="https://drive.google.com/drive/folders/1v9nkcG2QasMX54Ejv2jVEpX_5D
 
 Title: "A new insight to the analysis of co-authorship in Google Scholar"
 
-Authors: Ghazal Kalhor, Amin Asadi Sarijalou, Niloofar Sharifi Sadr, Behnam Bahrak
+Authors: Ghazal Kalhor, Amin Asadi Sarijalou, Niloofar Sharifi Sadr, and Behnam Bahrak
 
 DOI: https://doi.org/10.1007/s41109-022-00460-4
 
